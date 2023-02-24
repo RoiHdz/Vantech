@@ -1,0 +1,30 @@
+body {
+    background-color: #f3f3f3;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    margin: 50px auto;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  }
+
+  .img{
+    width: 90px;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+  }
+  
